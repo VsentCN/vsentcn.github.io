@@ -3,11 +3,11 @@
   <title>Vsent</title>
   
   <subtitle>Miku~</subtitle>
-  <link href="http://blog.vsent.top/atom.xml" rel="self"/>
+  <link href="http://b.vsent.cc/atom.xml" rel="self"/>
   
-  <link href="http://blog.vsent.top/"/>
+  <link href="http://b.vsent.cc/"/>
   <updated>2020-10-03T14:09:19.899Z</updated>
-  <id>http://blog.vsent.top/</id>
+  <id>http://b.vsent.cc/</id>
   
   <author>
     <name>Vsent CN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>给自己看的演示</title>
-    <link href="http://blog.vsent.top/2020/09/30/demo/"/>
-    <id>http://blog.vsent.top/2020/09/30/demo/</id>
+    <link href="http://b.vsent.cc/2020/09/30/demo/"/>
+    <id>http://b.vsent.cc/2020/09/30/demo/</id>
     <published>2020-09-30T01:25:00.000Z</published>
     <updated>2020-10-03T14:09:19.899Z</updated>
     
@@ -34,10 +34,10 @@
     
     
     
-    <category term="冷知识" scheme="http://blog.vsent.top/categories/%E5%86%B7%E7%9F%A5%E8%AF%86/"/>
+    <category term="冷知识" scheme="http://b.vsent.cc/categories/%E5%86%B7%E7%9F%A5%E8%AF%86/"/>
     
     
-    <category term="示例" scheme="http://blog.vsent.top/tags/%E7%A4%BA%E4%BE%8B/"/>
+    <category term="示例" scheme="http://b.vsent.cc/tags/%E7%A4%BA%E4%BE%8B/"/>
     
   </entry>
   
